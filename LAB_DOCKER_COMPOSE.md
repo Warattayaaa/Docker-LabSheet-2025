@@ -377,7 +377,7 @@ git version 2.43.0
 ```
 </details>
 
-> **📝 บันทึกผล**: 
+> ![ ![alt text](image-1.png)](image.png): 
 ```
 บันทึกรูปภาพผลการตรวจสอบ version
 ```
