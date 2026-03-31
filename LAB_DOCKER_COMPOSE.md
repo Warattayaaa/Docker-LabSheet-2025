@@ -626,7 +626,8 @@ exit
 </details>
 
 **บันทึกรูปผลการทดลอง**
-```![alt text](image-7.png)
+```
+![alt text](image-9.png)
 ```
 ---
 
