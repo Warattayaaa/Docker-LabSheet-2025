@@ -377,7 +377,7 @@ git version 2.43.0
 ```
 </details>
 
-> ![ ![alt text](image-1.png)](image.png): 
+> ![ ![alt text](image-1.png)![alt text](image-2.png)]: 
 ```
 บันทึกรูปภาพผลการตรวจสอบ version
 ```
